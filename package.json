@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "atom-reveal-md:toggle"
   },
-  "repository": "https://github.com/atom/atom-reveal-md",
+  "repository": "https://github.com/amahon/atom-reveal-md",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
