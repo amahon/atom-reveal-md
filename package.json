@@ -1,0 +1,20 @@
+{
+  "name": "atom-reveal-md",
+  "main": "./lib/atom-reveal-md",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "atom-reveal-md:toggle"
+  },
+  "repository": "https://github.com/atom/atom-reveal-md",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.2.0",
+    "loophole": "^1.1.0",
+    "reveal-md": "^0.1.1"
+  }
+}

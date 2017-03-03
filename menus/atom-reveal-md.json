@@ -1,0 +1,50 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle Reveal.js Preview",
+        "command": "atom-reveal-md:toggle"
+      },
+      {
+        "label": "Add Slide",
+        "command": "atom-reveal-md:add-slide"
+      },
+      {
+        "label": "Add SubSlide",
+        "command": "atom-reveal-md:add-subslide"
+      },
+      {
+        "label": "Render to Static",
+        "command": "atom-reveal-md:static"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-reveal-md",
+          "submenu": [
+            {
+              "label": "Toggle Reveal.js Preview",
+              "command": "atom-reveal-md:toggle"
+            },
+            {
+              "label": "Add Slide",
+              "command": "atom-reveal-md:add-slide"
+            },
+            {
+              "label": "Add SubSlide",
+              "command": "atom-reveal-md:add-subslide"
+            },
+            {
+              "label": "Render to Static",
+              "command": "atom-reveal-md:static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

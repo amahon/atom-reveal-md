@@ -1,0 +1,7 @@
+{
+  ".editor:not(.mini)": {
+    "ctrl-alt-p": "atom-reveal-md:toggle",
+    "ctrl-alt-s": "atom-reveal-md:add-slide",
+    "ctrl-alt-d": "atom-reveal-md:add-subslide"
+  }
+}
