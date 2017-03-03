@@ -1,8 +1,8 @@
 {
   "name": "atom-reveal-md",
   "main": "./lib/atom-reveal-md",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "Tools for Atom to use reveal-md.",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "atom-reveal-md:toggle"
