@@ -1,7 +1,7 @@
 {
   "name": "atom-reveal-md",
   "main": "./lib/atom-reveal-md",
-  "version": "0.3.4",
+  "version": "0.4.0",
   "description": "Tools for Atom to use reveal-md.",
   "keywords": [],
   "activationCommands": {
@@ -15,6 +15,7 @@
   "dependencies": {
     "atom-space-pen-views": "^2.2.0",
     "loophole": "^1.1.0",
-    "reveal-md-atomized": "^0.1.8"
+    "reveal-md-atomized": "^0.1.8",
+    "opn": "^5.1.0"
   }
 }

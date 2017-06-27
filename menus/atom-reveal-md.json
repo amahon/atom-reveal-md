@@ -16,6 +16,10 @@
       {
         "label": "Render to Static",
         "command": "atom-reveal-md:static"
+      },
+      {
+        "label": "Open in Browser",
+        "command": "atom-reveal-md:browser"
       }
     ]
   },
@@ -41,6 +45,10 @@
             {
               "label": "Render to Static",
               "command": "atom-reveal-md:static"
+            },
+            {
+              "label": "Open in Browser",
+              "command": "atom-reveal-md:browser"
             }
           ]
         }
