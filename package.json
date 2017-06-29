@@ -1,7 +1,7 @@
 {
   "name": "atom-reveal-md",
   "main": "./lib/atom-reveal-md",
-  "version": "0.3.4",
+  "version": "0.4.1",
   "description": "Tools for Atom to use reveal-md.",
   "keywords": [],
   "activationCommands": {
