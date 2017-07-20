@@ -15,7 +15,8 @@
   "dependencies": {
     "atom-space-pen-views": "^2.2.0",
     "loophole": "^1.1.0",
-    "reveal-md-atomized": "^0.3.8",
-    "opn": "^5.1.0"
+    "opn": "^5.1.0",
+    "phantomjs": "^2.1.7",
+    "reveal-md-atomized": "^0.3.8"
   }
 }
